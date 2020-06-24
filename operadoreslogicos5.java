@@ -22,7 +22,7 @@ public class operadoreslogicos5 {
 	        System.out.println(soma);
 	        
 	        
-	        if(soma > 7 || soma == 7){
+	        if(soma >= 7 ){
 	            System.out.printf("Media:"+soma);
 	            System.out.println(",Aprovado");
 	        
